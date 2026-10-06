@@ -1,0 +1,111 @@
+{
+  "guest": {
+    "customer_id": "guest",
+    "name": "",
+    "email": "",
+    "phone": "",
+    "preferences": [],
+    "important_information": [],
+    "previous_issues": [],
+    "conversation_summary": "",
+    "last_updated": "2026-10-05T20:15:09.076701"
+  },
+  "customer001": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "preferences": [],
+    "important_information": [],
+    "previous_issues": [
+      "hi",
+      "ticket system",
+      "hru",
+      "hi",
+      "hi"
+    ],
+    "conversation_summary": "User: hi\nAI: ⚠️ AI Error:\n\n(MaxRetryError('HTTPSConnectionPool(host=\\'api-inference.huggingface.co\\', port=443): Max retries exceeded with url: /models/Qwen/Qwen3.8-27B/v1/chat/completions (Caused by NameResolutionError(\"HTTPSConnection(host=\\'api-inference.huggingface.co\\', port=443): Failed to resolve \\'api-inference.huggingface.co\\' ([Errno 11001] getaddrinfo failed)\"))'), '(Request ID: 9e18a270-ccb6-4c66-bafd-9c81f95223c4)')",
+    "last_updated": "2026-10-06T07:13:03.529233",
+    "important_notes": [
+      "what is my name",
+      "TNPSC notification 2026",
+      "give me link"
+    ],
+    "customer_id": "customer001",
+    "created_at": "2026-10-06T10:17:34.161679",
+    "questions": [
+      "hi"
+    ],
+    "conversations": [
+      {
+        "time": "2026-10-06T10:18:17.302214",
+        "question": "hi",
+        "answer": "Hi Vimala! How can I help you today?"
+      }
+    ]
+  },
+  "CUST-073618": {
+    "customer_id": "CUST-073618",
+    "name": "",
+    "email": "",
+    "last_questions": [
+      {
+        "question": "hi",
+        "time": "2026-10-06T07:37:33.695570"
+      }
+    ],
+    "last_answers": [
+      {
+        "answer": "⚠️ AI Error: (MaxRetryError('HTTPSConnectionPool(host=\\'api-inference.huggingface.co\\', port=443): Max retries exceeded with url: /models/Qwen/Qwen3.8-27B/v1/chat/completions (Caused by NameResolutionError(\"HTTPSConnection(host=\\'api-inference.huggingface.co\\', port=443): Failed to resolve \\'api-inference.huggingface.co\\' ([Errno 11001] getaddrinfo failed)\"))'), '(Request ID: 6f3108c1-b242-409f-9315-96a3be00717e)')",
+        "time": "2026-10-06T07:37:33.695570"
+      }
+    ],
+    "tickets": [],
+    "created_at": "2026-10-06T07:36:18.440832"
+  },
+  "CUST-074432": {
+    "customer_id": "CUST-074432",
+    "name": "",
+    "email": "",
+    "last_questions": [
+      {
+        "question": "hi",
+        "time": "2026-10-06T07:44:46.971887"
+      }
+    ],
+    "last_answers": [
+      {
+        "answer": "⚠️ AI Error: (MaxRetryError('HTTPSConnectionPool(host=\\'api-inference.huggingface.co\\', port=443): Max retries exceeded with url: /models/Qwen/Qwen3.8-27B/v1/chat/completions (Caused by NameResolutionError(\"HTTPSConnection(host=\\'api-inference.huggingface.co\\', port=443): Failed to resolve \\'api-inference.huggingface.co\\' ([Errno 11001] getaddrinfo failed)\"))'), '(Request ID: c92e8ddc-5910-414f-814a-937e0b421365)')",
+        "time": "2026-10-06T07:44:46.971887"
+      }
+    ],
+    "tickets": [],
+    "created_at": "2026-10-06T07:44:32.982732"
+  },
+  "CUST-094723": {
+    "customer_id": "CUST-094723",
+    "name": "",
+    "email": "",
+    "last_questions": [
+      {
+        "question": "HI",
+        "time": "2026-10-06T09:47:51.924153"
+      },
+      {
+        "question": "WHAT IS MY NAME",
+        "time": "2026-10-06T09:48:15.845008"
+      }
+    ],
+    "last_answers": [
+      {
+        "answer": "Hi! How can I help you today?",
+        "time": "2026-10-06T09:47:51.924153"
+      },
+      {
+        "answer": "I do not have access to your personal information or name.\nIf you need help with an order, please provide your order number.\nI can assist with refunds, shipping, or tracking inquiries.",
+        "time": "2026-10-06T09:48:15.845008"
+      }
+    ],
+    "tickets": [],
+    "created_at": "2026-10-06T09:47:23.306531"
+  }
+}

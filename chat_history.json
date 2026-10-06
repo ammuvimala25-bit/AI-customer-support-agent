@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "HI",
+        "time": "2026-10-06 09:50:54"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "time": "2026-10-06 09:51:00"
+    },
+    {
+        "role": "user",
+        "content": "WHAT IS MY NAME",
+        "time": "2026-10-06 09:51:11"
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot confirm your name.",
+        "time": "2026-10-06 09:51:14"
+    },
+    {
+        "role": "user",
+        "content": "VIMALA",
+        "time": "2026-10-06 09:51:22"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I help you with TNPSC preparation, study plans, book resources, product information, or support tickets?",
+        "time": "2026-10-06 09:51:25"
+    },
+    {
+        "role": "user",
+        "content": "WHAT IS MY NAME",
+        "time": "2026-10-06 09:51:37"
+    },
+    {
+        "role": "assistant",
+        "content": "I can’t confirm your name from the information available.",
+        "time": "2026-10-06 09:51:40"
+    }
+]
